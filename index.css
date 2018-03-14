@@ -106,7 +106,7 @@ label {
 }
 
 .correct-answer-msg {
-  color: green;
+  color: #008000;
 }
 
 .incorrect-answer-msg {
